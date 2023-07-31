@@ -1,5 +1,5 @@
 
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=#fff&height=300&section=header&text=Hello!%20I'm%20Gaeun&fontSize=90)
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=_#fff&height=300&section=header&text=Hello!%20I'm%20Gaeun&fontSize=90)
 
 
 # Tech Stack :
@@ -30,7 +30,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leegaeuni&layout=compact)](https://github.com/leegaeuni/github-readme-stats)
 </div>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=#fff&height=200&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=_#fff&height=200&section=footer)
 <!--
 **leegaeuni/leegaeuni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

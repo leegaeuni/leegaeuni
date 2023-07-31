@@ -23,7 +23,7 @@
 <div align="center">
   
 ![leegaeuni's GitHub stats](https://github-readme-stats.vercel.app/api?username=leegaeuni&theme=ocean_dark&show_icons=true)&nbsp;&nbsp;&nbsp;&nbsp; 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leegaeuni&langs_count=8)](https://github.com/leegaeuni/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leegaeuni&layout=compact)](https://github.com/leegaeuni/github-readme-stats)
 </div>
 
 

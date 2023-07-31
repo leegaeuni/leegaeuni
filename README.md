@@ -29,7 +29,7 @@
 
 <div align="right">
   
-[![](https://visitcount.itsvg.in/api?id=CJH0120&icon=7&color=6)](https://visitcount.itsvg.in)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leegaeuni&langs_count=8)](https://github.com/leegaeuni/github-readme-stats)
    
 </div>
 
